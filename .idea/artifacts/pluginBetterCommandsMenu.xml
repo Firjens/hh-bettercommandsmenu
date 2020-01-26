@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pluginBetterCommandsMenu">
+    <output-path>$PROJECT_DIR$/out/artifacts/pluginBetterCommandsMenu</output-path>
+    <root id="archive" name="pluginBetterCommandsMenu.jar">
+      <element id="module-output" name="about" />
+    </root>
+  </artifact>
+</component>
